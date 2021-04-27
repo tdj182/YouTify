@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/youtify/static/css/main.4227bcc5.chunk.css",
+    "main.js": "/youtify/static/js/main.6995dc08.chunk.js",
+    "main.js.map": "/youtify/static/js/main.6995dc08.chunk.js.map",
+    "runtime-main.js": "/youtify/static/js/runtime-main.33df4613.js",
+    "runtime-main.js.map": "/youtify/static/js/runtime-main.33df4613.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/youtify/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.99192daf.chunk.js": "/youtify/static/js/2.99192daf.chunk.js",
+    "static/js/2.99192daf.chunk.js.map": "/youtify/static/js/2.99192daf.chunk.js.map",
+    "index.html": "/youtify/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/youtify/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4227bcc5.chunk.css.map": "/youtify/static/css/main.4227bcc5.chunk.css.map",
+    "static/js/2.99192daf.chunk.js.LICENSE.txt": "/youtify/static/js/2.99192daf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33df4613.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.99192daf.chunk.js",
+    "static/css/main.4227bcc5.chunk.css",
+    "static/js/main.6995dc08.chunk.js"
+  ]
+}
