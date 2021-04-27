@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/youtify/static/css/main.4227bcc5.chunk.css",
-    "main.js": "/youtify/static/js/main.5be289c1.chunk.js",
-    "main.js.map": "/youtify/static/js/main.5be289c1.chunk.js.map",
+    "main.js": "/youtify/static/js/main.f643846b.chunk.js",
+    "main.js.map": "/youtify/static/js/main.f643846b.chunk.js.map",
     "runtime-main.js": "/youtify/static/js/runtime-main.33df4613.js",
     "runtime-main.js.map": "/youtify/static/js/runtime-main.33df4613.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/youtify/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.41558bf9.chunk.js",
     "static/css/main.4227bcc5.chunk.css",
-    "static/js/main.5be289c1.chunk.js"
+    "static/js/main.f643846b.chunk.js"
   ]
 }
