@@ -1,6 +1,6 @@
 # Introduction
 
-Youtify is a web app built with React. Youtify connects your Spotify playlist with youtube. Tired of youtubing your songs or adjusting your youtube playlist each time you update your Spotify playlist? Youtify aims to solve that inconvenience.
+Youtify(https://tdj182.github.io/youtify/#) is a web app built with React. Youtify connects your Spotify playlist with youtube. Tired of youtubing your songs or adjusting your youtube playlist each time you update your Spotify playlist? Youtify aims to solve that inconvenience.
 
 ## Installation
 
